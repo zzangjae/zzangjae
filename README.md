@@ -1,11 +1,12 @@
-https://img.shields.io/badge/#EA4335-dondegi5@gmail.com-black   
+<img src="https://img.shields.io/badge/dondegi5@gmail.com-#EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 Hi there 👋 I'm backend web developer using Django and Spring.   
 Recently I'm interested in Kaggle projects which are using Data and AI solving skills   
 I'm new to here though 😁 (https://www.kaggle.com/jjangjae)   
 <br/>
-I love boardgames and role playing games!   
-best boardgames to me (Through The Ages, Teraforming Mars, Tichu)
-best role playing games to me (League of Legends, Overwatch, Diablo 4)
+I love boardgames and role playing games!    
+best boardgames to me (Through The Ages, Teraforming Mars, Tichu)    
+best role playing games to me (League of Legends, Overwatch, Diablo 4)     
+<br/>
 
 ## Skills
 
