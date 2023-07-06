@@ -7,10 +7,6 @@ best boardgames to me (Through The Ages, Teraforming Mars, Tichu)
 best role playing games to me (League of Legends, Overwatch, Diablo 4)    
 <br/>
 
-## Skills
-
-### Language 
-
 
 <!--
 **zzangjae/zzangjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
