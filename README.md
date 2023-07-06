@@ -1,9 +1,21 @@
-### Hi there 👋
+https://img.shields.io/badge/#EA4335-dondegi5@gmail.com-black   
+Hi there 👋 I'm backend web developer using Django and Spring.   
+Recently I'm interested in Kaggle projects which are using Data and AI solving skills   
+I'm new to here though 😁 (https://www.kaggle.com/jjangjae)   
+<br/>
+I love boardgames and role playing games!   
+best boardgames to me (Through The Ages, Teraforming Mars, Tichu)
+best role playing games to me (League of Legends, Overwatch, Diablo 4)
+
+## Skills
+
+### Language 
+
 
 <!--
 **zzangjae/zzangjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +25,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
