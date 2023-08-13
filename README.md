@@ -1,7 +1,6 @@
 ## 👋 Hi there 👋 
-<img src="https://img.shields.io/badge/dondegi5@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white">
-안녕하세요 반갑습니다!   
-저는 다양한 경험을 통해 성장중인 백엔드 개발자 입니다.    
+<img src="https://img.shields.io/badge/dondegi5@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"> <a href="https://zzangjaelog.tistory.com/"><img src="https://img.shields.io/badge/zzangjaelog-000000?style=plastic&logo=tistory&logoColor=white"></a>   
+저는 다양한 경험을 통해 성장중인 __백엔드 개발자__ 입니다.    
 안정적인 서비스를 만드는 데 관심이 있습니다. 
    
 __흥미로운 프로젝트, 유능한 팀원들과의 협업, 배움이 있는 자리__   
@@ -49,21 +48,5 @@ __흥미로운 프로젝트, 유능한 팀원들과의 협업, 배움이 있는 
 |NumPy|학부생 때 주식 가격 예측 프로젝트를 진행하며 DQN 학습을 위한 데이터를 만들기 위한 행렬연산을 할 때 사용하였습니다. 이후에는 취미로 Kaggle 프로젝트들을 학습하고 따라 해볼 때 사용하였으며 주로 책을 이용하여 학습하였습니다.|
 |Pandas|신한 AI 아이디어 경진대회에서 데이터 엔지니어 역할을 맡았을 때 사용한 기술입니다. 데이터 전처리, 시각화 등 다양한 부문에 적용하였습니다.|
 
-### Team Colaboration Tools
-
-
-<!--
-**zzangjae/zzangjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-:-->
-
+### Team Collaboration Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=plastic&logo=microsoftteams&logoColor=white">
