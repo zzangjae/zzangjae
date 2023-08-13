@@ -1,7 +1,8 @@
 ## 👋 Hi there 👋 
 <img src="https://img.shields.io/badge/dondegi5@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"> <a href="https://zzangjaelog.tistory.com/"><img src="https://img.shields.io/badge/zzangjaelog-000000?style=plastic&logo=tistory&logoColor=white"></a>   
+안녕하세요 반갑습니다!
 저는 다양한 경험을 통해 성장중인 __백엔드 개발자__ 입니다.    
-안정적인 서비스를 만드는 데 관심이 있습니다. 
+안정적인 서비스를 만드는 데 관심이 있습니다! 
    
 __흥미로운 프로젝트, 유능한 팀원들과의 협업, 배움이 있는 자리__   
 최근의 저를 설레게 하는 것들입니다!   
