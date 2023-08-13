@@ -17,6 +17,13 @@ __흥미로운 프로젝트, 유능한 팀원들과의 협업, 배움이 있는 
 |2016.02 ~ 2023.02| 건국대학교 기계공학 전공, 컴퓨터 공학 부전공 졸업 |
 |2023.01 ~| SSAFY 삼성 청년 소프트웨어 아카데미|
 
+## Awards & Certificate
+| 취득일 | 내용 |
+|:---:|:---:|
+|2023.4.14| SQLD |
+|2023.6.2| SSAFY 성적 우수상 수상|
+
+
 ## Skills
 ### Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-FFFFF?style=plastic&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white">
