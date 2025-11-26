@@ -36,17 +36,4 @@ __흥미로운 프로젝트, 유능한 팀원들과의 협업, 배움이 있는 
 |2021.10.12 ~ 2021.11.30| DQN을 통한 KOSPI 예측 프로젝트 | Python, Pandas, Numpy, Keras |
 
 ## Skills
-### Language
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-FFFFF?style=plastic&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white">
-
-### Backend
-<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Sprin Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=SpringSecurity&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=hibernate&logoColor=white"> 
-
-### Frontend
-<img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Vue-4FC08D?style=plastic&logo=vuedotjs&logoColor=white">
-
-### Data
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white">
-
-### Team Collaboration Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=plastic&logo=microsoftteams&logoColor=white">
+<img src="https://img.shields.io/badge/Java-FFFFF?style=plastic&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Vue-4FC08D?style=plastic&logo=vuedotjs&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white">
