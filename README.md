@@ -1,4 +1,4 @@
-## 👋 Hi there 👋 
+## 👋 Hi there! I'm Changjae.
 <img src="https://img.shields.io/badge/dondegi5@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"> <a href="https://zzangjaelog.tistory.com/"><img src="https://img.shields.io/badge/zzangjaelog-000000?style=plastic&logo=tistory&logoColor=white"></a>   
 안녕하세요 반갑습니다.
 저는 배움을 추구하는 __백엔드 개발자__ 입니다.    
